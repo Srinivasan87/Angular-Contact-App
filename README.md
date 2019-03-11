@@ -1,10 +1,41 @@
-# AngularContactApp
+[![REACT nanodegree](https://img.shields.io/badge/udacity-REACTND-02b3e4.svg?style=flat)](https://www.udacity.com/course/react-nanodegree--nd019)
+# Angular-Contacts-App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
+Contacts app allows the user to View and validate new contacts.
 
-## Development server
+## Demo
+![Gif](https://github.com/Srinivasan87/React-Contacts-App/blob/master/Contacts.gif)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+The project can be built with npm.
+
+* **Npm** is distributed with Node.js which means that when you download Node.js, you automatically get npm installed on your computer. [Download Node.js](https://nodejs.org/en/download/)
+
+### Installing
+
+To download the project follow the instructions bellow:
+
+Install Angular CLI
+```
+c:/> npm install -g @angular/cli
+```
+
+Download Project:
+```
+git clone https://github.com/Srinivasan87/Angular-Contact-App
+cd Angular-Contacts-App
+```
+
+Run Project:
+```
+>ng serve -o
+```
+Navigate to `http://localhost:4200/`.
 
 ## Code scaffolding
 
@@ -25,3 +56,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Versions
+
+v1.0
+* Default project implementation
+
+## Authors
+
+Srinivasan Jayaraman
+* [https://github.com/Srinivasan87](https://github.com/Srinivasan87)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
